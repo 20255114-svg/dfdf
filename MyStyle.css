@@ -1,0 +1,54 @@
+body {
+background-color: aliceblue;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h1, h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+ 
+}
+
+header {
+background-color: white;
+border: 1px solid black;
+text-align: center;
+padding: 1%;
+}
+
+nav {
+    text-align: center;
+margin: auto;
+border: 1px solid black;
+text-align: center;
+}
+
+nav a {
+    text-emphasis: none;
+    margin: 0 15px;
+    font-size: 16px;
+}
+
+.nav a:hover {
+    color: #ff6600; 
+  text-decoration: underline; 
+}
+main {
+        line-height: normal;
+}
+
+section {
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+li {
+    list-style: none;
+}
+
+
+footer {
+    text-align: center;
+}
